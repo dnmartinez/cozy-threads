@@ -9,7 +9,7 @@ async function main() {
 			description: 'Fine cotton pink t-shirt',
 			category: 'TOPS',
 			price: 19.99,
-			image: '/pink-top.jpg',
+			image: '/pink-top.jpeg',
 		},
 	})
 
@@ -29,7 +29,7 @@ async function main() {
 			description: 'Colorful and comfortable pants',
 			category: 'BOTTOMS',
 			price: 54.59,
-			image: '/orange-pants.jpg',
+			image: '/orange-pants.jpeg',
 		},
 	})
 
@@ -49,7 +49,7 @@ async function main() {
 			description: 'Recycled Material',
 			category: 'ACCESSORIES',
 			price: 78.99,
-			image: '/white-glasses.jpg',
+			image: '/white-glasses.jpeg',
 		},
 	})
 
