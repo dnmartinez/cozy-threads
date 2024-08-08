@@ -10,7 +10,7 @@ const commissioner = Commissioner({
 
 export default function Hero() {
 	return (
-		<section className='flex flex-col md:flex-row items-center justify-between p-4 h-screen pt-20'>
+		<section className='flex flex-col md:flex-row items-center justify-between p-4 h-[90vh]'>
 			<div className='w-full md:w-[60%] mb-4 md:mb-0'>
 				<Image
 					src='/hero.jpg'
